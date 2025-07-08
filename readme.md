@@ -9,6 +9,7 @@ Sistema inteligente de perguntas e respostas sobre o universo Star Wars, constru
        controls>
   Vídeo não suportado.
 </video>
+[Veja o vídeo completo](./Demonstracao_star_wars-1751935682659.mp4)
 
 *Demonstração do sistema em funcionamento - Chat interativo respondendo perguntas sobre Star Wars*
 
