@@ -4,7 +4,7 @@ Sistema inteligente de perguntas e respostas sobre o universo Star Wars, constru
 
 ## 🎬 Demonstração
 
-https://github.com/seu-usuario/star-wars/assets/123456789/Demonstracao_star_wars-1751935682659.mp4
+[Video](https://github.com/gustavojose136/star-wars-neo4j/blob/main/Demonstracao_star_wars-1751935682659.mp4)
 
 *Demonstração do sistema em funcionamento - Chat interativo respondendo perguntas sobre Star Wars*
 
